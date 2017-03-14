@@ -1,5 +1,8 @@
 _repo: Personal-Memoirs-of-U.-S.-Grant-Part-5._5864
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 5864-h/images/bookcover.jpg
 creator:
   author:
     agent_name: Grant, Ulysses S. (Ulysses Simpson)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/527
     wikipedia: http://en.wikipedia.org/wiki/Ulysses_S._Grant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5864#Personal-Memoirs-of-U.-S.-Grant-Part-5.
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
